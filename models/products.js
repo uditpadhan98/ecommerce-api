@@ -37,6 +37,22 @@ const productSchema=new mongoose.Schema({
         type:Boolean,
         default:true,
     },
+    stock:{
+        type:Number,
+        default:true,
+    },
+    reviews:{
+        type:Number,
+        default:true,
+    },
+    stars:{
+        type:Number,
+        default:true,
+    },
+    images:{
+        type:Array,
+        default:true,
+    }
     // rating:{
     //     type:Number,
     //     default:4.9,
