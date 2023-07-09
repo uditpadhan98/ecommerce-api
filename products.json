@@ -4,11 +4,11 @@
     "name": "Samsung Galaxy S20 FE 5G",
     "company": "Samsung",
     "price": 2699900,
-    "colors": ["#22D3EF", "#CDD0D0"],
+    "colors": ["#ff3333", "#ffe6ff","#f2f2f2"],
     "image": "https://m.media-amazon.com/images/I/812yohjGZ2L._SL1500_.jpg",
-    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "description": "5G Ready powered by Qualcomm Snapdragon 865 Octa-Core processor, 8GB RAM, 128GB internal memory expandable up to 1TB, Android 11.0 operating system and dual SIM . Triple Rear Camera Setup - 12MP (Dual Pixel) OIS F1.8 Wide Rear Camera + 8MP OIS Tele Camera + 12MP Ultra Wide | 30X Space Zoom, Single Take & Night Mode | 32MP F2.2 Front Punch Hole Camera",
     "category": "Mobile",
-    "featured": false,
+    "featured": true,
     "stock": 56,
     "reviews": 31926,
     "stars": 4.2,
@@ -17,7 +17,7 @@
         "id": "random_id1",
         "width": 1080,
         "height": 650,
-        "url": "https://m.media-amazon.com/images/I/71R2u-n-bVL._SX679_.jpg",
+        "url": "https://m.media-amazon.com/images/I/812yohjGZ2L._SL1500_.jpg",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -35,7 +35,7 @@
         "id": "random_id3",
         "width": 1080,
         "height": 650,
-        "url": "https://m.media-amazon.com/images/I/81fgR0nttVL._SL1500_.jpg",
+        "url": "https://m.media-amazon.com/images/I/71R2u-n-bVL._SX679_.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -53,23 +53,23 @@
   },
   {
     "id": "udit_product_02",
-    "name": "Dell Series",
-    "company": "dell",
-    "price": 3000000,
-    "colors": ["#22D3EF", "#CDD0D0"],
-    "image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-    "category": "mobile",
-    "featured": true,
-    "stock": 16,
-    "reviews": 58,
-    "stars": 4.8,
+    "name": "Samsung Galaxy M14 5G",
+    "company": "Samsung",
+    "price": 1499000,
+    "colors": ["#ff3333", "#ffe6ff","#f2f2f2" ],
+    "image": "https://m.media-amazon.com/images/I/91zMokvCNuL._SL1500_.jpg",
+    "description": "16.72 centimeters (6.6-inch) LCD, FHD+ resolution with 1080 x 2408 pixels resolution, 401 PPI with 16M color . 50MP+2MP+2MP Triple camera setup- True 50MP (F1.8) main camera + 2MP (F2.4) + 2MP (F2.4)| 13MP (F2.0) front camera",
+    "category": "Mobile",
+    "featured": false,
+    "stock": 86,
+    "reviews": 3551,
+    "stars": 3.9,
     "images": [
       {
         "id": "random_id1",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/91zMokvCNuL._SL1500_.jpg",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -78,7 +78,7 @@
         "id": "random_id2",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/71jVtP6uz8L._SL1500_.jpg",
         "filename": "prod-2.png",
         "size": 1080,
         "type": "image/png"
@@ -87,7 +87,7 @@
         "id": "random_id3",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/81opNRY-92L._SL1500_.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -96,7 +96,7 @@
         "id": "random_id4",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/71UVxtAUIwL._SL1500_.jpg",
         "filename": "prod-4.png",
         "size": 1080,
         "type": "image/png"
@@ -105,23 +105,23 @@
   },
   {
     "id": "udit_product_03",
-    "name": "Macbook Pro",
-    "company": "apple",
-    "price": 7000000,
-    "colors": ["#22D3EF", "#CDD0D0"],
-    "image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-    "category": "mobile",
+    "name": "Apple iPhone 14",
+    "company": "Apple",
+    "price": 7099900,
+    "colors": ["#ffff4d", "#ff3333","#000000","#ffe6ff","#f2f2f2","#cccccc"],
+    "image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._SL1500_.jpg",
+    "description": "15.40 cm (6.1-inch) Super Retina XDR display Cinematic mode now in 4K Dolby Vision up to 30 fps All-day battery life and up to 20 hours of video playback",
+    "category": "Mobile",
     "featured": true,
-    "stock": 16,
-    "reviews": 58,
-    "stars": 4.8,
+    "stock": 116,
+    "reviews": 433,
+    "stars": 4.5,
     "images": [
       {
         "id": "random_id1",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/61bK6PMOC3L._SL1500_.jpg",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -130,7 +130,7 @@
         "id": "random_id2",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/51Sn5X2gfaL._SL1500_.jpg",
         "filename": "prod-2.png",
         "size": 1080,
         "type": "image/png"
@@ -139,7 +139,7 @@
         "id": "random_id3",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/71RFKttvm9L._SL1500_.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -148,7 +148,7 @@
         "id": "random_id4",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/61UR88veVzL._SL1500_.jpg",
         "filename": "prod-4.png",
         "size": 1080,
         "type": "image/png"
@@ -157,23 +157,23 @@
   },
   {
     "id": "udit_product_04",
-    "name": "rolex premium",
-    "company": "rolex",
-    "price": 80000,
-    "colors": ["#22D3EF", "#CDD0D0"],
-    "image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-    "category": "mobile",
+    "name": "Apple iPhone 12",
+    "company": "Apple",
+    "price": 5599000,
+    "colors": ["#ffff4d", "#ff3333","#000000","#ffe6ff","#f2f2f2","#cccccc"],
+    "image": "https://m.media-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg",
+    "description": "6.1-inch (15.5 cm diagonal) Super Retina XDR display Ceramic Shield, tougher than any smartphone glass A14 Bionic chip, the fastest chip ever in a smartphone Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording",
+    "category": "Mobile",
     "featured": false,
-    "stock": 16,
-    "reviews": 58,
-    "stars": 4.8,
+    "stock": 186,
+    "reviews": 31045,
+    "stars": 4.5,
     "images": [
       {
         "id": "random_id1",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -182,7 +182,7 @@
         "id": "random_id2",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/81Zg4IWN-QS._SL1500_.jpg",
         "filename": "prod-2.png",
         "size": 1080,
         "type": "image/png"
@@ -191,7 +191,7 @@
         "id": "random_id3",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/61R7dzcroWL._SL1500_.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -200,7 +200,7 @@
         "id": "random_id4",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/71SMlpP8o-L._SL1500_.jpg",
         "filename": "prod-4.png",
         "size": 1080,
         "type": "image/png"
@@ -209,23 +209,23 @@
   },
   {
     "id": "udit_product_05",
-    "name": "galaxy w20",
-    "company": "samsung",
-    "price": 400000,
-    "colors": ["#22D3EF", "#CDD0D0"],
-    "image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-    "category": "mobile",
+    "name": "Apple iPhone 14 Plus",
+    "company": "Apple",
+    "price": 7999900,
+    "colors": ["#ffff4d", "#ff3333","#000000","#ffe6ff","#f2f2f2","#cccccc"],
+    "image": "https://m.media-amazon.com/images/I/61B0+qQriPL._SL1500_.jpg",
+    "description": "16.95 cm (6.7-inch) Super Retina XDR display Advanced camera system for better photos in any light Cinematic mode now in 4K Dolby Vision up to 30 fps Vital safety technology — Crash Detection calls for help when you can’t",
+    "category": "Mobile",
     "featured": false,
-    "stock": 16,
-    "reviews": 58,
-    "stars": 4.8,
+    "stock": 76,
+    "reviews": 875,
+    "stars": 4.5,
     "images": [
       {
         "id": "random_id1",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/61B0+qQriPL._SL1500_.jpg",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -234,7 +234,7 @@
         "id": "random_id2",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/51tfF8TGyAL._SL1500_.jpg",
         "filename": "prod-2.png",
         "size": 1080,
         "type": "image/png"
@@ -243,7 +243,7 @@
         "id": "random_id3",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/711JE+dD1KL._SL1500_.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -252,7 +252,7 @@
         "id": "random_id4",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/81pgJQgd4wL._SL1500_.jpg",
         "filename": "prod-4.png",
         "size": 1080,
         "type": "image/png"
@@ -261,23 +261,23 @@
   },
   {
     "id": "udit_product_06",
-    "name": "Mac Pc",
-    "company": "apple",
-    "price": 500000,
-    "colors": ["#22D3EF", "#CDD0D0"],
-    "image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-    "category": "mobile",
+    "name": "HP Laptop 15s",
+    "company": "HP",
+    "price": 5499000,
+    "colors": ["#000000","#ffe6ff","#f2f2f2"],
+    "image": "https://m.media-amazon.com/images/I/81koa5VFokL._SL1500_.jpg",
+    "description": "Intel Core i5-1235U(up to 4.4 GHz with Intel Turbo Boost Technology(2g), 12 MB L3 cache, 10 cores, 12 threads)|Memory:8 GB DDR4-3200 MHz RAM (2 x 4 GB), Upto 16 GB DDR4-3200 MHz RAM (2 x 8 GB)| Storage: 512 GB PCIe NVMe M.2 SSD",
+    "category": "Laptop",
     "featured": false,
-    "stock": 16,
-    "reviews": 58,
-    "stars": 4.8,
+    "stock": 77,
+    "reviews": 408,
+    "stars": 4.0,
     "images": [
       {
         "id": "random_id1",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/81koa5VFokL._SL1500_.jpg",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -286,7 +286,7 @@
         "id": "random_id2",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/91za6kI19eL._SL1500_.jpg",
         "filename": "prod-2.png",
         "size": 1080,
         "type": "image/png"
@@ -295,7 +295,7 @@
         "id": "random_id3",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/81pvQ2IKg5L._SL1500_.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -304,7 +304,7 @@
         "id": "random_id4",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/81pvQ2IKg5L._SL1500_.jpg",
         "filename": "prod-4.png",
         "size": 1080,
         "type": "image/png"
@@ -313,23 +313,23 @@
   },
   {
     "id": "udit_product_07",
-    "name": "Asus gseries",
-    "company": "asus",
-    "price": 600000,
-    "colors": ["#22D3EF", "#CDD0D0"],
-    "image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-    "category": "mobile",
+    "name": "Lenovo V15",
+    "company": "Lenovo",
+    "price": 2339000,
+    "colors": ["#000000","#ffe6ff","#f2f2f2"],
+    "image": "https://m.media-amazon.com/images/I/31uLEZHhMDL.jpg",
+    "description": "Intel Celeron N4500 processor, base speed 1.1 Ghz, max speed 2.8 Ghz, 2 Cores, 4MB L3 smart cache | Memory: 8GB DDR4 RAM 2933 MHz, dual-channel capable | Storage: 256GB SSD M.2 upgradable up to 512GB SSD  Preloaded Windows 11 Home SL with Lifetime Validity",
+    "category": "Laptop",
     "featured": false,
-    "stock": 16,
-    "reviews": 58,
-    "stars": 4.8,
+    "stock": 22,
+    "reviews": 2136,
+    "stars": 3.8,
     "images": [
       {
         "id": "random_id1",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/31uLEZHhMDL.jpg",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -338,7 +338,7 @@
         "id": "random_id2",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/51W4euNEkdL.jpg",
         "filename": "prod-2.png",
         "size": 1080,
         "type": "image/png"
@@ -347,7 +347,7 @@
         "id": "random_id3",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/41KqveoMO1L.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -356,7 +356,7 @@
         "id": "random_id4",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/41t8sHUlLGL.jpg",
         "filename": "prod-4.png",
         "size": 1080,
         "type": "image/png"
@@ -365,23 +365,23 @@
   },
   {
     "id": "udit_product_08",
-    "name": "Accessories",
-    "company": "lenovo",
-    "price": 60000,
-    "colors": ["#22D3EF", "#CDD0D0"],
-    "image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-    "category": "mobile",
+    "name": "Lenovo IdeaPad Slim 3",
+    "company": "Lenovo",
+    "price": 3499000,
+    "colors": ["#000000","#ffe6ff","#f2f2f2"],
+    "image": "https://m.media-amazon.com/images/I/41o-KkXEkSL.jpg",
+    "description": "The Ideapad Slim 3i, with up to 8 hours of battery life, keeps you charged for whatever comes your way. Swap effortlessly between ‘Max mode’, where your CPU provides quicker output and ‘Battery saving mode’ for long lasting power with ‘Q Control’.",
+    "category": "Laptop",
     "featured": false,
-    "stock": 16,
-    "reviews": 58,
-    "stars": 4.8,
+    "stock": 89,
+    "reviews": 266,
+    "stars": 4.1,
     "images": [
       {
         "id": "random_id1",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/41o-KkXEkSL.jpg",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -390,7 +390,7 @@
         "id": "random_id2",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/61NJJEoyHNL._SL1000_.jpg",
         "filename": "prod-2.png",
         "size": 1080,
         "type": "image/png"
@@ -399,7 +399,7 @@
         "id": "random_id3",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/61FNm3LkIjL._SL1500_.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -408,7 +408,7 @@
         "id": "random_id4",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/51wQs0x5SzL._SL1000_.jpg",
         "filename": "prod-4.png",
         "size": 1080,
         "type": "image/png"
@@ -417,23 +417,23 @@
   },
   {
     "id": "udit_product_09",
-    "name": "user need",
-    "company": "apple",
-    "price": 6000000,
-    "colors": ["#22D3EF", "#CDD0D0"],
-    "image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-    "category": "mobile",
+    "name": "HP Pavilion",
+    "company": "HP",
+    "price": 8799000,
+    "colors": ["#000000","#ffe6ff","#f2f2f2"],
+    "image": "https://m.media-amazon.com/images/I/81A9jE3wMHL._SL1500_.jpg",
+    "description": "Intel Core i7-1360P(up to 5.0 GHz with Intel Turbo Boost Technology(2g)18 MB L3 cache, 12 cores, 16 threads)|Memory: 16 GB DDR4-3200 MHz RAM (2 x 8 GB)|Storage:1 TB PCIe NVMe M.2 SSD",
+    "category": "Laptop",
     "featured": true,
-    "stock": 16,
-    "reviews": 58,
+    "stock": 66,
+    "reviews": 358,
     "stars": 4.8,
     "images": [
       {
         "id": "random_id1",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/81A9jE3wMHL._SL1500_.jpg",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -442,7 +442,7 @@
         "id": "random_id2",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/71a3Z+kjaiL._SL1500_.jpg",
         "filename": "prod-2.png",
         "size": 1080,
         "type": "image/png"
@@ -451,7 +451,7 @@
         "id": "random_id3",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/71qnILrwQfL._SL1500_.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -460,7 +460,475 @@
         "id": "random_id4",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://m.media-amazon.com/images/I/71S042m3VBL._SL1500_.jpg",
+        "filename": "prod-4.png",
+        "size": 1080,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "udit_product_10",
+    "name": "Oppo Enco Buds",
+    "company": "Oppo",
+    "price": 179900,
+    "colors": ["#ff3333", "#ffe6ff","#f2f2f2"],
+    "image": "https://m.media-amazon.com/images/I/51-9+QbUWGL._SL1500_.jpg",
+    "description": "Battery Beast With 24 Hours Music On：6H single-charge | 24H With Charging Case Concert Like Experience With Great Bass：Equipped with TPU+PEEK material double-layer composite diaphragm",
+    "category": "EarBuds",
+    "featured": true,
+    "stock": 60,
+    "reviews": 22787,
+    "stars": 4.0,
+    "images": [
+      {
+        "id": "random_id1",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/51-9+QbUWGL._SL1500_.jpg",
+        "filename": "prod-1.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id2",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61oFTq6NpvL._SL1500_.jpg",
+        "filename": "prod-2.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id3",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61ZBqngv3uL._SL1500_.jpg",
+        "filename": "prod-3.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id4",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/51nxkqNtqHL._SL1500_.jpg",
+        "filename": "prod-4.png",
+        "size": 1080,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "udit_product_11",
+    "name": "OnePlus Nord Buds 2",
+    "company": "OnePlus",
+    "price": 299900,
+    "colors": ["#000000","#ffe6ff","#f2f2f2"],
+    "image": "https://m.media-amazon.com/images/I/61-ZYvldY+L._SL1500_.jpg",
+    "description": "The OnePlus Nord Buds 2 has Up to 25dB Active Noise Cancellation bringing users the best sound experience by cancelling unwanted surrounding noise. The flagship-level battery life for the all-new OnePlus Nord Buds 2 delivers up to 36 hrs of non-stop music on a single charge.",
+    "category": "EarBuds",
+    "featured": false,
+    "stock": 56,
+    "reviews": 37179,
+    "stars": 4.1,
+    "images": [
+      {
+        "id": "random_id1",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61-ZYvldY+L._SL1500_.jpg",
+        "filename": "prod-1.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id2",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61U7CmuGSuL._SL1500_.jpg",
+        "filename": "prod-2.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id3",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61r5p5A9R3L._SL1500_.jpg",
+        "filename": "prod-3.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id4",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61EtcsE0RBL._SL1500_.jpg",
+        "filename": "prod-4.png",
+        "size": 1080,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "udit_product_12",
+    "name": "boAt Immortal 121",
+    "company": "boAt",
+    "price": 149900,
+    "colors": ["#ff3333", "#ffe6ff","#f2f2f2"],
+    "image": "https://m.media-amazon.com/images/I/61q-2yzbBtL._SL1500_.jpg",
+    "description": "Low Latency- It’s time to hit your gaming zone with the TWS gaming earbuds, Immortal 121 that come equipped with BEAST Mode to offer super low latency of 40ms. Playback- Immortal 121 provides a total playtime of up to 40 hours including 10 hours of playtime per charge.",
+    "category": "EarBuds",
+    "featured": false,
+    "stock": 60,
+    "reviews": 2433,
+    "stars": 3.7,
+    "images": [
+      {
+        "id": "random_id1",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61q-2yzbBtL._SL1500_.jpg",
+        "filename": "prod-1.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id2",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/81C4li-v9qL._SL1500_.jpg",
+        "filename": "prod-2.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id3",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61rHUzachmL._SL1500_.jpg",
+        "filename": "prod-3.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id4",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61rHUzachmL._SL1500_.jpg",
+        "filename": "prod-4.png",
+        "size": 1080,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "udit_product_13",
+    "name": "boAt Airdopes Atom",
+    "company": "boAt",
+    "price": 99000,
+    "colors": ["#000000","#ffe6ff","#f2f2f2"],
+    "image": "https://m.media-amazon.com/images/I/6150vg2i4hL._SL1500_.jpg",
+    "description": "Playback- Airdopes Atom 81 offer a total playtime of up to 50HRS, including up to 10HRS of playtime per earbud Drivers- Delve into the boAt immersive auditory experience on Airdopes Atom 81 TWS earbuds courtesy its 13mm audio drivers. Frequency - 20Hz-20KHz",
+    "category": "EarBuds",
+    "featured": false,
+    "stock": 76,
+    "reviews": 3087,
+    "stars": 3.6,
+    "images": [
+      {
+        "id": "random_id1",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/6150vg2i4hL._SL1500_.jpg",
+        "filename": "prod-1.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id2",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61aaos19uXL._SL1500_.jpg",
+        "filename": "prod-2.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id3",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61SrzBqUteL._SL1500_.jpg",
+        "filename": "prod-3.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id4",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61gAcTx3SbL._SL1500_.jpg",
+        "filename": "prod-4.png",
+        "size": 1080,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "udit_product_14",
+    "name": "Samsung Galaxy Watch5",
+    "company": "Samsung",
+    "price": 2799900,
+    "colors": ["#ffff4d","#000000","#cccccc"],
+    "image": "https://m.media-amazon.com/images/I/51KeCHPY5GL._SL1500_.jpg",
+    "description": "Sleep Tracking: Know your sleep with our new and improved sleep tracking technology. Plan your bedtime, detect snoring, understand and track your sleep. Body composition Analysis (BIA Measurement): Monitor everything from body fat percentage (BIA) to skeletal muscle weight. All the feedback you need to track your progress.",
+    "category": "Watch",
+    "featured": false,
+    "stock": 32,
+    "reviews": 387,
+    "stars": 3.6,
+    "images": [
+      {
+        "id": "random_id1",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/51KeCHPY5GL._SL1500_.jpg",
+        "filename": "prod-1.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id2",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61l5S4e+osL._SL1500_.jpg",
+        "filename": "prod-2.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id3",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61AT48lgpeL._SL1500_.jpg",
+        "filename": "prod-3.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id4",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61i87vsOAPL._SL1500_.jpg",
+        "filename": "prod-4.png",
+        "size": 1080,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "udit_product_15",
+    "name": "Apple Watch SE",
+    "company": "Apple",
+    "price": 3190000,
+    "colors": ["#ffff4d","#000000","#cccccc"],
+    "image": "https://m.media-amazon.com/images/I/71lGe8rucNL._SL1500_.jpg",
+    "description": "All the essentials to help you monitor your fitness, keep connected, track your health and stay safe. Now up to 20% faster, with features like Crash Detection and enhanced workout metrics, it’s a better value than ever. Send a text, make a call and stream music without your iPhone. Cellular lets you do it all without your iPhone nearby.",
+    "category": "Watch",
+    "featured": true,
+    "stock": 46,
+    "reviews": 787,
+    "stars": 4.6,
+    "images": [
+      {
+        "id": "random_id1",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/71lGe8rucNL._SL1500_.jpg",
+        "filename": "prod-1.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id2",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61BO6Y21H0L._SL1500_.jpg",
+        "filename": "prod-2.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id3",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/71RnczHDmrL._SL1500_.jpg",
+        "filename": "prod-3.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id4",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61HgxezhWkL._SL1500_.jpg",
+        "filename": "prod-4.png",
+        "size": 1080,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "udit_product_16",
+    "name": "boAt Xtend Call Plus",
+    "company": "boAt",
+    "price": 199900,
+    "colors": ["#ffff4d","#000000","#cccccc"],
+    "image": "https://m.media-amazon.com/images/I/61gRRiSF2iL._SL1500_.jpg",
+    "description": "Bring everything to life on Xtend Call Plus with a 1.91 HD display Connect Seamlessly, dial effortlessly - advanced Bluetooth calling  ensures faster, stronger and improved connection The AI Noise Cancellation technology lets you be heard absolutely clear over calls",
+    "category": "Watch",
+    "featured": false,
+    "stock": 76,
+    "reviews": 487,
+    "stars": 4.3,
+    "images": [
+      {
+        "id": "random_id1",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61gRRiSF2iL._SL1500_.jpg",
+        "filename": "prod-1.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id2",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/610HDckOrgL._SL1500_.jpg",
+        "filename": "prod-2.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id3",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/71D6PWH05LL._SL1500_.jpg",
+        "filename": "prod-3.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id4",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/71RNlTRnvaL._SL1500_.jpg",
+        "filename": "prod-4.png",
+        "size": 1080,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "udit_product_17",
+    "name": "Sony WH-CH520",
+    "company": "Sony",
+    "price": 449000,
+    "colors": ["#ff3333", "#ffe6ff","#f2f2f2"],
+    "image": "https://m.media-amazon.com/images/I/41JACWT-wWL._SL1200_.jpg",
+    "description": "With up to 50-hour battery life and quick charging, you’ll have enough power for multi-day road trips and long festival weekends. Great sound quality customizable to your music preference with EQ Custom on the Sony | Headphones Connect App.",
+    "category": "Head Phone",
+    "featured": true,
+    "stock": 43,
+    "reviews": 1037,
+    "stars": 4.3,
+    "images": [
+      {
+        "id": "random_id1",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/41JACWT-wWL._SL1200_.jpg",
+        "filename": "prod-1.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id2",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/51UBVW9enzL._SL1200_.jpg",
+        "filename": "prod-2.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id3",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/41jR+301vvL._SL1200_.jpg",
+        "filename": "prod-3.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id4",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/51D0o6gwYEL._SL1200_.jpg",
+        "filename": "prod-4.png",
+        "size": 1080,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "udit_product_18",
+    "name": "Sony WH-CH720N",
+    "company": "Sony",
+    "price": 999000,
+    "colors": ["#ff3333", "#ffe6ff","#f2f2f2"],
+    "image": "https://m.media-amazon.com/images/I/61zWFqX+krL._SL1500_.jpg",
+    "description": "Sony’s lightest Wireless Noise-cancelling headband ever Up to 50-hour battery life with quick charging (3 min charge for up to 1 hour of playback) Multi-Point Connection helps to pair with two Bluetooth devices at the same time",
+    "category": "Head Phone",
+    "featured": false,
+    "stock": 9,
+    "reviews": 587,
+    "stars": 4.3,
+    "images": [
+      {
+        "id": "random_id1",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/61zWFqX+krL._SL1500_.jpg",
+        "filename": "prod-1.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id2",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/71D16UKzuiL._SL1500_.jpg",
+        "filename": "prod-2.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id3",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/71aCaRoIjVL._SL1500_.jpg",
+        "filename": "prod-3.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "random_id4",
+        "width": 1080,
+        "height": 650,
+        "url": "https://m.media-amazon.com/images/I/714Y5JTXyoL._SL1500_.jpg",
         "filename": "prod-4.png",
         "size": 1080,
         "type": "image/png"
